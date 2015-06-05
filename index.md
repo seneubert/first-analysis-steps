@@ -30,8 +30,7 @@ If you have any problems or questions, you can [send an email to
 2.  [Interactively exploring a DST](05-interactive-dst.html)
 2.  [Fun with LoKi Functors](06-loki-functors.html)
 3.  [Building your own decay](06-building-decays.html)
-3.  General introduction to Stripping
-3.  Finding your stripping line
+3.  [Introduction to the LHCb data flow](08-stripping.html)
 2.  [Running a minimal DaVinci job locally](09-minimal-dv-job.html)
 3.  [Storing large files on EOS](10-eos-storage.html)
 4.  [Minimal DaVinci on the grid](11-davinci-grid.html)
@@ -47,8 +46,9 @@ If you have any problems or questions, you can [send an email to
 18. Other things one can do with DTF
 19. [Asking good questions](26-asking-questions.html)
 19. [Developing the LHCb Software](16-lhcb-dev.html)
+20. [Using SVN](18-using-svn.html)
 20. Where to get help
-21. Contribute to this lesson!
+21. [Contribute to this lesson](27-contributing.html)
 22. [Install party](32-install-party.html)
 
 Each topic should be a chunk of 10-15 minutes.
