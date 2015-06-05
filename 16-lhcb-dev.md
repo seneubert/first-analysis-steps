@@ -68,7 +68,7 @@ This is an LHCb-aware wrapper around SVN.
 For example, if you want to write a custom stripping selection, execute the following in the `DaVinciDev` directory:
 
 ```bash
-getpack Phys/StrippingSelection head
+getpack Phys/StrippingSelections head
 ```
 
 Under the hood, `getpack` will `svn checkout` (≈ `git clone`) the corresponding SVN repository.
